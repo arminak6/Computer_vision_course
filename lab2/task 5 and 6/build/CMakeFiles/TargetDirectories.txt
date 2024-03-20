@@ -1,0 +1,3 @@
+/home/armin/unipd/CV/Labs/new/2/lab2/task3/build/CMakeFiles/task3.dir
+/home/armin/unipd/CV/Labs/new/2/lab2/task3/build/CMakeFiles/edit_cache.dir
+/home/armin/unipd/CV/Labs/new/2/lab2/task3/build/CMakeFiles/rebuild_cache.dir

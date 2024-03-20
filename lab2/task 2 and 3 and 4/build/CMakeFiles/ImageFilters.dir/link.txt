@@ -1,0 +1,2 @@
+/usr/bin/ar qc libImageFilters.a CMakeFiles/ImageFilters.dir/ImageFilters.cpp.o
+/usr/bin/ranlib libImageFilters.a

@@ -1,0 +1,4 @@
+/home/armin/unipd/CV/Labs/new/2/lab2/task2/build/CMakeFiles/task2.dir
+/home/armin/unipd/CV/Labs/new/2/lab2/task2/build/CMakeFiles/ImageFilters.dir
+/home/armin/unipd/CV/Labs/new/2/lab2/task2/build/CMakeFiles/edit_cache.dir
+/home/armin/unipd/CV/Labs/new/2/lab2/task2/build/CMakeFiles/rebuild_cache.dir
