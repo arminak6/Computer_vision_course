@@ -1,3 +1,0 @@
-/home/armin/unipd/CV/Labs/2/Lab 2  Filters and histogram equalization-20240318/lab2/build/CMakeFiles/task1.dir
-/home/armin/unipd/CV/Labs/2/Lab 2  Filters and histogram equalization-20240318/lab2/build/CMakeFiles/edit_cache.dir
-/home/armin/unipd/CV/Labs/2/Lab 2  Filters and histogram equalization-20240318/lab2/build/CMakeFiles/rebuild_cache.dir
